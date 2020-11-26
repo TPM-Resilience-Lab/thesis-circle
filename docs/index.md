@@ -1,1 +1,1 @@
-# Welcome to thesis circle of the [HERoS project](https://www.heros-project.eu)
+# Thesis circle
